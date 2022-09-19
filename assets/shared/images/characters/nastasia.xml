@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="nastasia.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="ns down0000" x="0" y="0" width="364" height="506" frameX="-3" frameY="-4" frameWidth="371" frameHeight="513"/>
+	<SubTexture name="ns down0001" x="364" y="0" width="369" height="504" frameX="-1" frameY="-8" frameWidth="371" frameHeight="513"/>
+	<SubTexture name="ns down0002" x="733" y="0" width="371" height="505" frameX="0" frameY="-8" frameWidth="371" frameHeight="513"/>
+	<SubTexture name="ns down0003" x="1104" y="0" width="370" height="505" frameX="0" frameY="-8" frameWidth="371" frameHeight="513"/>
+	<SubTexture name="ns down0004" x="1474" y="0" width="365" height="511" frameX="-2" frameY="0" frameWidth="371" frameHeight="513"/>
+	<SubTexture name="ns idle left0000" x="1839" y="0" width="287" height="509" frameX="-34" frameY="-12" frameWidth="321" frameHeight="521"/>
+	<SubTexture name="ns idle left0001" x="1839" y="0" width="287" height="509" frameX="-34" frameY="-12" frameWidth="321" frameHeight="521"/>
+	<SubTexture name="ns idle left0002" x="2126" y="0" width="280" height="516" frameX="-29" frameY="-5" frameWidth="321" frameHeight="521"/>
+	<SubTexture name="ns idle left0003" x="2126" y="0" width="280" height="516" frameX="-29" frameY="-5" frameWidth="321" frameHeight="521"/>
+	<SubTexture name="ns idle left0004" x="2406" y="0" width="283" height="518" frameX="-20" frameY="-3" frameWidth="321" frameHeight="521"/>
+	<SubTexture name="ns idle left0005" x="2406" y="0" width="283" height="518" frameX="-20" frameY="-3" frameWidth="321" frameHeight="521"/>
+	<SubTexture name="ns idle left0006" x="2689" y="0" width="288" height="520" frameX="-8" frameY="0" frameWidth="321" frameHeight="521"/>
+	<SubTexture name="ns idle left0007" x="2689" y="0" width="288" height="520" frameX="-8" frameY="0" frameWidth="321" frameHeight="521"/>
+	<SubTexture name="ns idle left0008" x="2977" y="0" width="295" height="518" frameX="0" frameY="-2" frameWidth="321" frameHeight="521"/>
+	<SubTexture name="ns idle left0009" x="2977" y="0" width="295" height="518" frameX="0" frameY="-2" frameWidth="321" frameHeight="521"/>
+	<SubTexture name="ns idle left0010" x="2977" y="0" width="295" height="518" frameX="0" frameY="-2" frameWidth="321" frameHeight="521"/>
+	<SubTexture name="ns idle left0011" x="2977" y="0" width="295" height="518" frameX="0" frameY="-2" frameWidth="321" frameHeight="521"/>
+	<SubTexture name="ns idle left0012" x="2977" y="0" width="295" height="518" frameX="0" frameY="-2" frameWidth="321" frameHeight="521"/>
+	<SubTexture name="ns idle left0013" x="2977" y="0" width="295" height="518" frameX="0" frameY="-2" frameWidth="321" frameHeight="521"/>
+	<SubTexture name="ns idle right0000" x="3272" y="0" width="287" height="509" frameX="-34" frameY="-12" frameWidth="321" frameHeight="521"/>
+	<SubTexture name="ns idle right0001" x="3272" y="0" width="287" height="509" frameX="-34" frameY="-12" frameWidth="321" frameHeight="521"/>
+	<SubTexture name="ns idle right0002" x="3559" y="0" width="280" height="516" frameX="-29" frameY="-5" frameWidth="321" frameHeight="521"/>
+	<SubTexture name="ns idle right0003" x="3559" y="0" width="280" height="516" frameX="-29" frameY="-5" frameWidth="321" frameHeight="521"/>
+	<SubTexture name="ns idle right0004" x="0" y="520" width="283" height="518" frameX="-20" frameY="-3" frameWidth="321" frameHeight="521"/>
+	<SubTexture name="ns idle right0005" x="0" y="520" width="283" height="518" frameX="-20" frameY="-3" frameWidth="321" frameHeight="521"/>
+	<SubTexture name="ns idle right0006" x="283" y="520" width="288" height="520" frameX="-8" frameY="0" frameWidth="321" frameHeight="521"/>
+	<SubTexture name="ns idle right0007" x="283" y="520" width="288" height="520" frameX="-8" frameY="0" frameWidth="321" frameHeight="521"/>
+	<SubTexture name="ns idle right0008" x="2977" y="0" width="295" height="518" frameX="0" frameY="-2" frameWidth="321" frameHeight="521"/>
+	<SubTexture name="ns idle right0009" x="2977" y="0" width="295" height="518" frameX="0" frameY="-2" frameWidth="321" frameHeight="521"/>
+	<SubTexture name="ns idle right0010" x="2977" y="0" width="295" height="518" frameX="0" frameY="-2" frameWidth="321" frameHeight="521"/>
+	<SubTexture name="ns idle right0011" x="2977" y="0" width="295" height="518" frameX="0" frameY="-2" frameWidth="321" frameHeight="521"/>
+	<SubTexture name="ns idle right0012" x="2977" y="0" width="295" height="518" frameX="0" frameY="-2" frameWidth="321" frameHeight="521"/>
+	<SubTexture name="ns idle right0013" x="2977" y="0" width="295" height="518" frameX="0" frameY="-2" frameWidth="321" frameHeight="521"/>
+	<SubTexture name="ns left0000" x="571" y="520" width="310" height="519" frameX="-28" frameY="0" frameWidth="338" frameHeight="519"/>
+	<SubTexture name="ns left0001" x="881" y="520" width="326" height="516" frameX="-4" frameY="-3" frameWidth="338" frameHeight="519"/>
+	<SubTexture name="ns left0002" x="1207" y="520" width="329" height="515" frameX="0" frameY="-4" frameWidth="338" frameHeight="519"/>
+	<SubTexture name="ns left0003" x="1536" y="520" width="326" height="516" frameX="-3" frameY="-3" frameWidth="338" frameHeight="519"/>
+	<SubTexture name="ns left0004" x="1862" y="520" width="310" height="518" frameX="-25" frameY="-1" frameWidth="338" frameHeight="519"/>
+	<SubTexture name="ns right0000" x="2172" y="520" width="289" height="514" frameX="0" frameY="-4" frameWidth="315" frameHeight="519"/>
+	<SubTexture name="ns right0001" x="2461" y="520" width="289" height="519" frameX="-22" frameY="0" frameWidth="315" frameHeight="519"/>
+	<SubTexture name="ns right0002" x="2750" y="520" width="293" height="519" frameX="-22" frameY="0" frameWidth="315" frameHeight="519"/>
+	<SubTexture name="ns right0003" x="3043" y="520" width="291" height="518" frameX="-22" frameY="-1" frameWidth="315" frameHeight="519"/>
+	<SubTexture name="ns right0004" x="3334" y="520" width="290" height="512" frameX="0" frameY="-6" frameWidth="315" frameHeight="519"/>
+	<SubTexture name="ns shine0000" x="3624" y="520" width="294" height="517" frameX="-615" frameY="-377" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0001" x="0" y="1040" width="294" height="517" frameX="-615" frameY="-377" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0002" x="294" y="1040" width="343" height="517" frameX="-615" frameY="-377" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0003" x="637" y="1040" width="301" height="517" frameX="-615" frameY="-377" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0004" x="938" y="1040" width="545" height="605" frameX="-567" frameY="-289" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0005" x="1483" y="1040" width="1183" height="990" frameX="-117" frameY="-38" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0006" x="2666" y="1040" width="1369" height="1118" frameX="-32" frameY="-30" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0007" x="0" y="2158" width="1425" height="1178"/>
+	<SubTexture name="ns shine0008" x="1425" y="2158" width="545" height="605" frameX="-567" frameY="-289" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0009" x="1970" y="2158" width="309" height="517" frameX="-621" frameY="-377" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0010" x="2279" y="2158" width="303" height="517" frameX="-613" frameY="-377" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0011" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0012" x="2894" y="2158" width="313" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0013" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0014" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0015" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0016" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0017" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0018" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0019" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0020" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0021" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0022" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0023" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0024" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0025" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0026" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0027" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0028" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0029" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0030" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0031" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0032" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0033" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0034" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0035" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0036" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0037" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0038" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0039" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0040" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0041" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0042" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0043" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0044" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0045" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0046" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0047" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0048" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0049" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0050" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0051" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0052" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0053" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0054" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0055" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0056" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0057" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0058" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0059" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0060" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0061" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0062" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0063" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0064" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0065" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0066" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0067" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0068" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns shine0069" x="2582" y="2158" width="312" height="516" frameX="-609" frameY="-378" frameWidth="1425" frameHeight="1178"/>
+	<SubTexture name="ns up0000" x="3207" y="2158" width="306" height="513" frameX="-12" frameY="0" frameWidth="324" frameHeight="513"/>
+	<SubTexture name="ns up0001" x="3513" y="2158" width="312" height="509" frameX="-2" frameY="-4" frameWidth="324" frameHeight="513"/>
+	<SubTexture name="ns up0002" x="0" y="3336" width="312" height="510" frameX="0" frameY="-3" frameWidth="324" frameHeight="513"/>
+	<SubTexture name="ns up0003" x="312" y="3336" width="314" height="510" frameX="0" frameY="-3" frameWidth="324" frameHeight="513"/>
+	<SubTexture name="ns up0004" x="626" y="3336" width="308" height="510" frameX="-16" frameY="-3" frameWidth="324" frameHeight="513"/>
+</TextureAtlas>
