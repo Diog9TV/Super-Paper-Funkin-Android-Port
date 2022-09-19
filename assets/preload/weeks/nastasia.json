@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Hypnotized", "nastasia", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"none",
+		"none",
+		"none"
+	],
+	"weekBackground": "nastasia",
+
+	"storyName": "Chapter 0",
+	"weekBefore": "tutorial",
+	"weekName": "Chapter 0",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
