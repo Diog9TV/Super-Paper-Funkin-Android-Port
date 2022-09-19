@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				30,
+				0
+			],
+			"loop": false,
+			"anim": "idle-ALT",
+			"fps": 24,
+			"name": "gf altidle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "gf idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gfboombox",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
